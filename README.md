@@ -1,0 +1,2 @@
+# Doristec
+Document Plagiarism Detection
