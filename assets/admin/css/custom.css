@@ -1,0 +1,68 @@
+.form-box{
+  padding: 20px 0;
+}
+.section-form{
+  padding: 50px 0;
+}
+.btn-main-form{
+  background-color: transparent;
+  border-color: #fff;
+}
+.btn-main-form:hover {
+  color: #2a2a2a;
+  background-color: #f4f6f899;
+  border-color: #fff 2px solid;
+}
+.main-deskrip{
+  text-align: center;
+  padding: 100px 0;
+}
+.main-deskrip p.header-tagline-h1 {
+  font-size: 20px;
+  padding-bottom: 0;
+}
+.main-deskrip p{
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+.main-deskrip h1{
+  font-size: 50px;
+  font-weight: 500;
+  padding-top: 50px;
+}
+.main-deskrip h3{
+  font-size: 30px;
+  font-weight: 500;
+}
+.main-deskrip a{
+  font-size: 18px;
+  color: #fafafa;
+  margin-bottom: 150px;
+  width: 300px;
+}
+.main-deskrip a:hover{
+  color: #2408c3;
+}
+.main-deskrip a.daftar{
+  float: right;
+}
+.box-info{
+  display: grid;
+  text-align: center;
+  color: #6E6D6D;
+  line-height: unset;
+}
+.box-info img{
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+.box-info label{
+  font-size: 30px;
+}
+.box-info p{
+  font-size: 18px;
+}
+.section-text{
+  padding: 80px 0;
+}

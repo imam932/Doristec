@@ -1,0 +1,78 @@
+body{
+  font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+html{
+  scroll-behavior: smooth;
+}
+section{
+  margin: 0;
+  padding: 0;
+  color: #fafafa;
+}
+.parallax {
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax.ruangan{
+  background-image: url("../../img/ruangan.jpg");
+}
+.parallax.belajar{
+  background-image: url("../../img/belajar.jpg");
+}
+.parallax.wisuda{
+  background-image: url("../../img/wisuda.jpg");
+}
+
+.parallax-inner{
+  background: linear-gradient(45deg, rgba(0, 0, 255, 0.7), rgba(255, 0, 235, 0.7));
+  height: 100%;
+}
+.main-logo{
+  position: relative;
+  width: 204px;
+  height: 60px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.main-deskrip{
+  color: #fff;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+.main-deskrip p{
+  font-size: 16px;
+  text-align: center;
+  position: relative;
+  max-width: 600px;
+  height: auto;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 22px;
+}
+.section-text{
+  color: #000;
+}
+#footer{
+  padding: 30px 0;
+}
+.section-panel{
+  padding: 25px 0;
+}
+.form-inbox{
+  background-color: transparent;
+  color: #fff;
+  border: 2px solid #fff;
+  border-radius: 3px;
+}
+.form-group{
+
+}
